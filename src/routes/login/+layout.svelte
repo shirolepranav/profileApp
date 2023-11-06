@@ -1,6 +1,6 @@
 <script lang="ts">
     import {page} from "$app/stores"
-    import AnimatedRoute from '$lib/component/AnimatedRoute.svelte';
+    import AnimatedRoute from '$lib/components/AnimatedRoute.svelte';
 </script>
 
 <nav class="flex justify-center my-6">
