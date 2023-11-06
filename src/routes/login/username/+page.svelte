@@ -56,9 +56,6 @@
 
 </script>
   
-  </script>
-  
-  
   
   <AuthCheck>
       <h2>Username</h2>
