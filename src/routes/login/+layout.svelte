@@ -1,5 +1,6 @@
 <script lang="ts">
     import {page} from "$app/stores"
+    import AnimatedRoute from '$lib/component/AnimatedRoute.svelte';
 </script>
 
 <nav class="flex justify-center my-6">
@@ -20,7 +21,7 @@
     </ul>
   </nav>
   
-  
+
 <AnimatedRoute>
   <main class="card w-4/6 bg-neutral text-neutral-content mx-auto">
     <div class="card-body items-center text-center">
